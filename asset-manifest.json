@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iqrarProject/static/css/main.756af292.css",
+    "main.js": "/iqrarProject/static/js/main.77d6174d.js",
+    "static/js/787.9a79855f.chunk.js": "/iqrarProject/static/js/787.9a79855f.chunk.js",
+    "static/media/Loading.gif": "/iqrarProject/static/media/Loading.22d19a528e236bcb7f07.gif",
+    "index.html": "/iqrarProject/index.html",
+    "main.756af292.css.map": "/iqrarProject/static/css/main.756af292.css.map",
+    "main.77d6174d.js.map": "/iqrarProject/static/js/main.77d6174d.js.map",
+    "787.9a79855f.chunk.js.map": "/iqrarProject/static/js/787.9a79855f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.77d6174d.js"
+  ]
+}
